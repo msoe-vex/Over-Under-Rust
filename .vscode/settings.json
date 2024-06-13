@@ -23,10 +23,12 @@
         ".devcontainer/devcontainer.json"
     ],
     "cSpell.words": [
+        "cata",
         "COMMS",
         "Holonomic",
         "libeigen",
         "nodiscard",
+        "odometry",
         "opcontrol",
         "proto",
         "rclcpp",
